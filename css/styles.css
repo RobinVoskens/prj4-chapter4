@@ -12,23 +12,22 @@ header {
 	background-image: url(../images/banner.jpg); 
 	margin-bottom: 10px;
 	font-family: 'Montserrat', sans-serif;
-box-shadow: black;
+	box-shadow: black;
+	padding: 10px 0px 10px;
+}
+
+header h1, h3 {
+	width: 90%;
+	margin: auto;
+	color: white;
 }
 
 header h1 {
-	width: 90%;
-	margin: auto;
 	font-size: 3em;
-	color: white;
-	padding: 10px 10px 0px 10px;
 }
 
 header h3 {
 	font-size: 1.5em;
-	color: white;
-	width: 90%;
-	margin: auto;
-	padding: 0px 10px 10px 10px;
 }
 
 p {

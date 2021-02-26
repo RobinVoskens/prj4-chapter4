@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS DOCUMENT */
+body {
+	width: 90%;
+	margin: auto;
+}
+
+.container01 {
+	margin: auto;
+	width: 60%;
+	text-align: center;
+	background-color: #FFF48E;
+	padding: 0.5em;
+	border: 1px solid black;
+}
+
+.paragraph01 {
+	background-color: #262626;
+	box-shadow: 0px 5px 10px rgba(68, 68, 68, 0.3);
+	color: #43B1DE;
+	padding: 0.5em;
+
+}
+#paragraph02 {
+	width: 30%;
+	text-align: justify;
+
+}

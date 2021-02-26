@@ -12,6 +12,7 @@ header {
 	background-image: url(../images/banner.jpg); 
 	margin-bottom: 10px;
 	font-family: 'Montserrat', sans-serif;
+box-shadow: black;
 }
 
 header h1 {

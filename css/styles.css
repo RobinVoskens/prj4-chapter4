@@ -12,9 +12,8 @@ header {
 	background-image: url(../images/banner.jpg); 
 	margin-bottom: 10px;
 	font-family: 'Montserrat', sans-serif;
-
-
 }
+
 header h1 {
 	width: 90%;
 	margin: auto;
@@ -22,6 +21,7 @@ header h1 {
 	color: white;
 	padding: 10px 10px 0px 10px;
 }
+
 header h3 {
 	font-size: 1.5em;
 	color: white;
